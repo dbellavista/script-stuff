@@ -1,0 +1,6 @@
+# Garbage
+*.swp
+*.pyc
+__pycache__/
+
+secure_backup.sh
